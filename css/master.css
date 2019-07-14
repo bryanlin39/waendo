@@ -56,6 +56,7 @@ i#location-icon {
 
 #navbar-complete button.btn:hover {
   background-color: #3e6c7f;
+  border: 1px solid #3e6c7f;
 }
 
 button a, button a:hover {
@@ -69,6 +70,24 @@ hr {
 
 nav .nav-link {
   font-size: 14px;
+}
+
+#homeCarousel .carousel-caption {
+  top: 40%;
+}
+
+.carousel-caption h1 {
+  font-family: 'Montserrat', 'Helvetica', Arial, sans-serif;
+  font-size: 60px;
+  line-height: 70px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.carousel-caption h1 span {
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgba(160, 180, 190, 0.5);
 }
 
 #home-meet-doctors {
