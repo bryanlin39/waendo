@@ -42,7 +42,7 @@ body a:hover {
   max-width: 50%;
 }
 
-#location-icon {
+i#location-icon {
   font-size: 20px;
   color: #d74a3e;
 }
@@ -70,6 +70,21 @@ hr {
 nav .nav-link {
   font-size: 14px;
 }
+
+#home-meet-doctors {
+
+}
+
+#home-meet-doctors .card {
+  background-color: #f2f9fc;
+  box-shadow: 0px 2px 6px #b9bdc4;
+}
+
+img.home-top-dentist {
+  max-width: 100%;
+}
+
+
 
 @media only screen and (min-width: 992px) {
   nav .navbar-nav {
