@@ -50,7 +50,7 @@ body a:hover {
 #navbar-complete button.btn {
   padding: 10px 20px;
   background-color: #71c5e8;
-  border: 1px solid #3e6c7f;
+  border: 1px solid #71c5e8;
   border-radius: 25px ;
 }
 
@@ -84,5 +84,5 @@ nav .nav-link {
 }
 
 @media only screen and (max-width: 991px) {
-  
+
 }
