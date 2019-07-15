@@ -12,7 +12,7 @@ body {
 h1 {
   font-family: 'Roboto', 'Helvetica', sans-serif;
   font-weight: bold !important;
-  color: #1f3640;
+  color: #71c5e8;
 }
 
 body p {
@@ -35,6 +35,7 @@ body a:hover {
 
 #navbar-complete {
   padding-top: 20px;
+  padding-bottom: 10px;
   border-top: 5px solid #71c5e8;
 }
 
@@ -64,34 +65,48 @@ button a, button a:hover {
   text-decoration: none;
 }
 
-hr {
-  background-color: #71c5e8;
+#navbar-complete hr {
+  margin-bottom: 10px;
 }
 
 nav .nav-link {
   font-size: 14px;
 }
 
-#homeCarousel .carousel-caption {
-  top: 40%;
+#home-intro {
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
-.carousel-caption h1 {
-  font-family: 'Montserrat', 'Helvetica', Arial, sans-serif;
-  font-size: 60px;
-  line-height: 70px;
-  font-weight: 700;
-  color: #ffffff;
+#home-intro h3 {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  color: #1f3640;
 }
 
-.carousel-caption h1 span {
+#home-intro p {
   padding-left: 15px;
-  padding-right: 15px;
-  background-color: rgba(160, 180, 190, 0.5);
+  padding-right: 50px;
+  font-size: 16px;
+  border-left: 2px solid #71c5e8;
+}
+
+.parallax {
+  background-image: url(../img/waendo-lobby-2.jpg);
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #home-meet-doctors {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
 
+#home-meet-doctors h1 {
+  margin-bottom: 20px;
 }
 
 #home-meet-doctors .card {
@@ -99,7 +114,25 @@ nav .nav-link {
   box-shadow: 0px 2px 6px #b9bdc4;
 }
 
-img.home-top-dentist {
+#home-meet-doctors .doctor-quote {
+  margin-bottom: 10px;
+}
+
+#home-meet-doctors .copy {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#seattle-met-awards {
+  margin-top: 40px;
+}
+
+#seattle-met-awards .col-sm-2 {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#seattle-met-awards img {
   max-width: 100%;
 }
 
