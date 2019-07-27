@@ -9,9 +9,34 @@ i.material-icons {
 
 #location-info {
   padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+#location-info h1 {
+  margin-bottom: 30px;
+}
+
+#location-info hr {
+  margin-left: 0;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 10%;
+  border-bottom: 3px solid #71c5e8;
+}
+
+#location-directions {
+  padding-top: 30px;
   padding-bottom: 60px;
 }
 
-#location-info p {
-  margin-top: 40px;
+#location-directions h1 {
+  margin-bottom: 40px;
+}
+
+#location-directions .row {
+  margin-bottom: 30px;
+}
+
+#location-directions .directions-image {
+  width: 100%;
 }
