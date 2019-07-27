@@ -1,0 +1,17 @@
+i.material-icons {
+  margin-right: 10px;
+  line-height: inherit;
+}
+
+#location-header img {
+  width: 100%;
+}
+
+#location-info {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+#location-info p {
+  margin-top: 40px;
+}
