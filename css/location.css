@@ -12,19 +12,43 @@ i.material-icons {
   padding-bottom: 30px;
 }
 
-#location-info h1 {
+#location-info table {
+  width: 60%;
+}
+
+#location-info table td {
+  font-family: 'Abel', Arial, sans-serif;
+  font-size: 20px;
+  color: #6c757d;
+}
+
+#location-info p {
+  color: #6c757d;
   margin-bottom: 30px;
 }
 
 #location-info hr {
   margin-left: 0;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   width: 10%;
   border-bottom: 3px solid #71c5e8;
 }
 
-#location-directions {
+#location-parking {
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+#location-parking h1 {
+  margin-bottom: 30px;
+}
+
+#location-parking p {
+  color: #6c757d;
+}
+
+/* #location-directions {
   padding-top: 30px;
   padding-bottom: 60px;
 }
@@ -39,4 +63,4 @@ i.material-icons {
 
 #location-directions .directions-image {
   width: 100%;
-}
+} */
