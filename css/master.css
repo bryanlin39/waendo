@@ -5,10 +5,19 @@
 a4daf0
 f2f9fc */
 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 body h1 {
   font-family: 'Abel', 'Helvetica', sans-serif;
   font-weight: bold !important;
   color: #71c5e8;
+}
+
+body h2 {
+  font-family: 'Abel', 'Helvetica', Arial, sans-serif;
 }
 
 body h3 {
@@ -22,7 +31,7 @@ body h5 {
 body p {
   font-family: 'Abel', Arial, sans-serif;
   font-size: 20px;
-  color: #1f3640;
+  color: #000000;
 }
 
 body a {
@@ -40,7 +49,7 @@ body a:hover {
 #navbar-complete {
   padding-top: 10px;
   padding-bottom: 10px;
-  border-top: 5px solid #71c5e8;
+  border-top: 8px solid #71c5e8;
 }
 
 nav a.nav-link {
@@ -60,6 +69,48 @@ nav a.dropdown-item {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+/* body {
+  padding-bottom: 240px;
+} */
+
+footer.footer {
+  /* position: absolute;
+  bottom: 0;
+  width: 100%; */
+  /* height: 240px; */
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: #3e6c7f;
+}
+
+footer.footer h3 {
+  margin-bottom: 15px;
+  font-size: 22px;
+  color: #ffffff;
+}
+
+footer.footer p {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+footer.footer a {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+#footer-copyright {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #1f3640;
+}
+
+#footer-copyright p {
+  margin-bottom: 0;
+  font-size: 16px;
+  color: #ffffff;
 }
 
 
