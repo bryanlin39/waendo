@@ -1,0 +1,32 @@
+#staff-team-picture {
+  position: relative;
+  height: 400px;
+  width: 100%;
+  background-color: #B1C5AF;
+}
+
+#staff-portraits {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  text-align: center;
+}
+
+#staff-portraits .col-md-4 {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#staff-portraits img.portrait {
+  width: 100%;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  border: 1px solid grey;
+}
+
+#staff-portraits h3 {
+  font-size: 22px;
+}
+
+#staff-portraits p {
+  margin-bottom: 10px;
+}
