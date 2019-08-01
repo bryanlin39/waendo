@@ -24,6 +24,13 @@
   font-size: 18px;
 }
 
+#testimonials .doctible-header {
+  font-family: 'Abel', 'Helvetica', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+
 #testimonials .doctible-review-info {
   font-family: 'Abel', 'Helvetica', Arial, sans-serif;
   font-size: 20px;
