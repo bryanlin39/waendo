@@ -1,0 +1,53 @@
+#testimonials {
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+#testimonials .doctible-location-name {
+  width: 100%;
+  text-align: center;
+  font-family: 'Abel', 'Helvetica', Arial, sans-serif;
+  font-size: 2.5rem;
+  color: #71c5e8 !important;
+}
+
+#testimonials .doctible-reviews-count-container {
+  text-align: center;
+  font-family: 'Abel', 'Helvetica', Arial, sans-serif;
+}
+
+#testimonials .doctible-reviews-count {
+  font-size: 18px;
+}
+
+#testimonials .doctible-reviews-count-text {
+  font-size: 18px;
+}
+
+#testimonials .doctible-review-info {
+  font-family: 'Abel', 'Helvetica', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+#testimonials .doctible-review-date {
+  font-family: 'Abel', 'Helvetica', Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+#testimonials .doctible-review-content {
+  font-family: 'Abel', 'Helvetica', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+#testimonials .doctible-page {
+  font-family: 'Abel', 'Helvetica', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+}
+
+#testimonials .doctible-page.active {
+  background-color: #71c5e8;
+}
