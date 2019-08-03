@@ -1,0 +1,20 @@
+#root-canal-retreatment {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 20px;
+  background-color: #eaeaea;
+}
+
+#root-canal-retreatment h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #71c5e8;
+}
+
+#root-canal-retreatment p {
+  font-size: 18px;
+}
+
+#root-canal-retreatment .contact-cta {
+  margin-top: 30px;
+}
