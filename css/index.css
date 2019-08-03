@@ -15,6 +15,11 @@
   border-left: 3px solid #71c5e8;
 }
 
+#home-parallax .parallax {
+  background-image: url(../img/waendo-lobby-2-2x1.jpg);
+  height: 500px;
+}
+
 #home-meet-doctors {
   padding-top: 60px;
   padding-bottom: 60px;
