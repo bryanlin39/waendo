@@ -36,6 +36,9 @@
   line-height: 1.5;
 }
 
+#testimonials .doctible-review {
+  background-color: #f2f2f2;
+}
 
 #testimonials .doctible-review-info {
   font-family: 'Abel', 'Helvetica', Arial, sans-serif;

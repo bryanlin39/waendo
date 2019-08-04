@@ -1,0 +1,24 @@
+#forms-policies {
+  padding-bottom: 60px;
+}
+
+#forms-policies hr {
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+#forms-policies h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #71c5e8;
+}
+
+#forms-policies table {
+  width: 100%;
+}
+
+#forms-policies td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 33%;
+}
