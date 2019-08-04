@@ -1,0 +1,22 @@
+.root-canal {
+  padding-bottom: 60px;
+}
+
+.root-canal hr {
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.root-canal h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #71c5e8;
+}
+
+.root-canal p {
+  font-size: 18px;
+}
+
+.root-canal .contact-cta {
+  margin-top: 30px;
+}

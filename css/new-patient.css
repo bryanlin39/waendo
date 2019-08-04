@@ -1,0 +1,41 @@
+#new-patient {
+  padding-bottom: 60px;
+}
+
+#new-patient hr {
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+#new-patient h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #71c5e8;
+}
+
+#new-patient p {
+  font-size: 18px;
+}
+
+#new-patient #services {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: #f2f2f2;
+}
+
+#new-patient #services h2 {
+  margin-top: 0;
+}
+
+#new-patient #services hr {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 20%;
+  border-bottom: 2px solid #71c5e8;
+}
+
+#new-patient .contact-cta {
+  margin-top: 30px;
+}

@@ -52,6 +52,10 @@ body a:hover {
   border-top: 8px solid #71c5e8;
 }
 
+nav.navbar {
+  padding-left: 0;
+}
+
 nav a.nav-link {
   padding-left: 15px !important;
   padding-right: 15px !important;
