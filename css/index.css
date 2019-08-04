@@ -53,6 +53,10 @@
   font-size: 17px;
 }
 
+#home-meet-doctors .doctor-quote a.text-muted:hover {
+  text-decoration: underline;
+}
+
 #seattle-met-awards {
   padding-top: 40px;
   padding-right: 30px;

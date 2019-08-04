@@ -73,6 +73,21 @@ nav a.dropdown-item {
   background-size: cover;
 }
 
+.contact-cta {
+  margin-top: 30px;
+  color: #71c5e8;
+}
+
+button.new-patient-forms-cta {
+  background-color: #71c5e8;
+  border: 1px solid #71c5e8;
+}
+
+button.new-patient-forms-cta:hover {
+  background-color: #64adcc;
+  border: 1px solid #64adcc;
+}
+
 footer.footer {
   padding-top: 30px;
   padding-bottom: 20px;
