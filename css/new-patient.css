@@ -20,9 +20,13 @@
 #new-patient #services {
   margin-top: 30px;
   margin-bottom: 30px;
-  padding-top: 30px;
-  padding-bottom: 20px;
+  padding: 30px 40px 20px 40px;
   background-color: #f2f2f2;
+}
+
+#new-patient #services .col-md-3 {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 #new-patient #services h2 {
