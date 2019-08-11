@@ -20,6 +20,7 @@
 }
 
 #testimonials .doctible-reviews-count-container {
+  margin-top: 0;
   font-family: 'Abel', 'Helvetica', Arial, sans-serif;
 }
 
@@ -67,4 +68,27 @@
 
 #testimonials .doctible-page.active {
   background-color: #71c5e8;
+}
+
+#testimonials #social-media {
+  padding-top: 55px;
+  padding-left: 75px;
+}
+
+#testimonials #social-media button {
+  width: 100%;
+  height: 50px;
+  margin-top: 15px;
+}
+
+#testimonials #social-media .yelp-btn {
+  background-color: #d4312d;
+}
+
+#testimonials #social-media .facebook-btn {
+  background-color: #3b5998;
+}
+
+#testimonials #social-media .google-btn {
+  background-color: #dd4b39;
 }
