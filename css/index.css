@@ -22,7 +22,7 @@
 
 #home-meet-doctors {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 40px;
 }
 
 #home-meet-doctors h1 {
@@ -30,7 +30,7 @@
 }
 
 #home-meet-doctors .doctor-quote .row {
-  margin-bottom: 30px;
+  margin-bottom: 80px;
 }
 
 #home-meet-doctors .doctor-quote hr {
@@ -58,7 +58,7 @@
 }
 
 #seattle-met-awards {
-  padding-top: 40px;
+  padding-top: 10px;
   padding-right: 30px;
 }
 
