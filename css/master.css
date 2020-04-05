@@ -119,11 +119,15 @@ footer.footer p i.fa-envelope {
   width: 17px;
 }
 
-
 footer.footer a {
   font-size: 16px;
   line-height: 16px;
   color: #ffffff;
+}
+
+footer.footer a.email-link {
+  font-size: 17px;
+  line-height: 17px;
 }
 
 footer.footer i.fa-file-pdf-o {
