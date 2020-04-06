@@ -35,6 +35,10 @@ i.material-icons {
   border-bottom: 3px solid #71c5e8;
 }
 
+#location-info #contact-info a {
+  color: #6c757d;
+}
+
 #location-parking {
   padding-top: 30px;
   padding-bottom: 60px;
