@@ -1,19 +1,27 @@
-.root-canal {
+.service {
   padding-bottom: 60px;
   background-color: #f4f4f4;
 }
 
-.root-canal hr {
+.service hr {
   margin-top: 0;
   margin-bottom: 40px;
 }
 
-.root-canal h2 {
+.service h2 {
   margin-top: 30px;
   font-size: 24px;
   color: #71c5e8;
 }
 
-.root-canal p {
+.service p {
   font-size: 18px;
+}
+
+.service ul li {
+  font-size: 18px;
+}
+
+.service span.blue-font {
+  color: #71c5e8;
 }
