@@ -72,6 +72,16 @@ nav a.dropdown-item {
   font-size: 16px;
 }
 
+div.covid-message {
+  margin: 0;
+  text-align: center;
+  font-size: 17px;
+}
+
+div.covid-message a {
+  font-size: 17px;
+}
+
 .parallax {
   background-attachment: fixed;
   background-position: center;
