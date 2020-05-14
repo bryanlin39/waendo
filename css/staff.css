@@ -17,7 +17,7 @@
 }
 
 #staff-portraits img.portrait {
-  width: 100%;
+  width: 80%;
   margin-top: 40px;
   margin-bottom: 20px;
   border: 1px solid grey;
@@ -29,4 +29,5 @@
 
 #staff-portraits p {
   margin-bottom: 10px;
+  font-size: 18px;
 }
