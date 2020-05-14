@@ -52,6 +52,12 @@ body ul li {
   color: #000000;
 }
 
+body ol li {
+  font-family: 'Abel', Arial, sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+
 #navbar-complete {
   padding-top: 10px;
   padding-bottom: 10px;

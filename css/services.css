@@ -28,6 +28,14 @@
   font-size: 18px;
 }
 
+.service ol li {
+  font-size: 18px;
+}
+
+.service ol li {
+  margin-bottom: 8px;
+}
+
 .service span.blue-font {
   color: #71c5e8;
 }
