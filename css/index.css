@@ -58,11 +58,16 @@
 }
 
 #seattle-met-awards {
-  padding-top: 10px;
-  padding-right: 30px;
+  padding-top: 30px;
+}
+
+#seattle-met-awards {
+  text-align: center;
 }
 
 #seattle-met-awards img {
   margin-top: 20px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 350px;
+  height: auto;
 }
