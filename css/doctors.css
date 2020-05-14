@@ -1,8 +1,9 @@
 .doctor-banner {
   position: relative;
-  height: 400px;
+  /* height: 400px; */
   width: 100%;
-  background-color: #B1C5AF;
+  /* background-color: #B1C5AF; */
+  background-color: rgba(113, 197, 232, 0.3);
 }
 
 .doctor-name h1 {
@@ -13,10 +14,11 @@
 
 .doctor-quote h3 {
   font-size: 28px;
-  color: #ffffff;
+  /* color: #ffffff; */
+  color: #222222;
 }
 
-#dr-carina-lea .doctor-name {
+/* #dr-carina-lea .doctor-name {
   position: absolute;
   top: 80px;
   right: 300px;
@@ -29,7 +31,7 @@
   top: 200px;
   right: 130px;
   width: 580px;
-}
+} */
 
 .doctor-copy {
   padding-top: 50px;
@@ -60,7 +62,7 @@
   border-bottom: 2px solid #71c5e8;
 }
 
-#dr-ben-studebaker .doctor-name {
+/* #dr-ben-studebaker .doctor-name {
   position: absolute;
   top: 100px;
   left: 100px;
@@ -71,21 +73,38 @@
 #dr-ben-studebaker .doctor-quote {
   position: absolute;
   top: 220px;
-  left: 100px;
-  width: 500px;
+  left: 210px;
+  width: 450px;
+  text-align: right;
+} */
+
+
+/* TEMPORARY CSS */
+.doctor-banner {
+  padding-top: 70px;
+  padding-bottom: 60px;
 }
 
-#dr-timothy-bachman .doctor-name {
-  position: absolute;
-  top: 180px;
-  right: 60px;
+.doctor-banner .col-md-3 {
+  padding-right: 0;
+}
+
+.doctor-banner .col-md-7 {
+  padding-left: 0;
+}
+
+.doctor-portrait img {
+  margin-bottom: 20px;
+  width: 160px;
+}
+
+.doctor-name h1 {
+  display: inline;
   padding: 5px 30px 5px 30px;
   background-color: rgb(0, 0, 0, 0.2);
 }
 
-#dr-timothy-bachman .doctor-quote {
-  position: absolute;
-  top: 280px;
-  right: 60px;
-  width: 740px;
+.doctor-quote {
+  margin-top: 20px;
+  width: 90%;
 }

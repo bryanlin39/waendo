@@ -170,6 +170,9 @@ footer.footer i.fa-file-pdf-o {
   color: #ffffff;
 }
 
+.covid-message {
+  border-radius: 0 !important;
+}
 
 @media only screen and (min-width: 992px) {
   .dropdown:hover>.dropdown-menu {
